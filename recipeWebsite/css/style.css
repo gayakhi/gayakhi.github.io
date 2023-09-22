@@ -1,0 +1,109 @@
+
+body {
+
+	background-color: #f3fefb;
+}
+
+#titleBg {
+
+	background-color: navy;
+	padding-top: 5px;
+	padding-bottom: 15px;
+
+}
+
+
+#mainTitle {
+
+	font-family: Bebas Neue;
+	font-size: 90px;
+	letter-spacing: 1px;
+	color: white;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 50px;
+
+}
+
+
+#secondTitle {
+
+	font-family: Helvetica;
+	color: white;
+	text-align: center;
+
+}
+
+#ingredientList {
+
+	font-size: 18px;
+	font-family: Helvetica;
+
+}
+
+
+#instructionList {
+
+	font-size: 18px;
+	font-family: Helvetica;
+
+}
+
+
+#ingredientTitle {
+
+	font-size: 24px;
+	font-family: Bebas Neue;	
+
+}
+
+
+#instructionTitle {
+
+	font-size: 24px;
+	font-family: Bebas Neue;	
+
+}
+
+
+#ingredientPage {
+
+	width: 30%;
+	height: 400px;
+	float: right;
+/*	position: fixed;*/
+	border-color: navy;
+	border-style: ridge;
+	padding-left: 15px;
+}
+
+
+
+.stars {
+
+	height: 30px;
+	display: inline;
+}
+
+#reviewsTitle {
+
+	font-family: Bebas Neue;
+
+}
+
+#commentSection {
+
+
+	
+}
+
+
+/*#footer {
+
+	background-color: navy;
+	color: white;
+	font-family: helvetica;
+	bottom: 0;
+
+}*/
+
