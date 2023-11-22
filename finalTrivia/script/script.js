@@ -164,7 +164,6 @@ function gameOverOrNextQuestion() {
 	else{
 		updateHighScore(questionsCorrect);
 		alert("GAME OVER");
-		startGame();
 	}
 }
 
