@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Trivia Game</title>
+	<link rel="stylesheet" type="text/css" href="css/triviaStyle.css">
+</head>
+
+<body>
+
+
+<nav class="navBar">
+
+	<div class="buttonStartQuiz">
+		<button id="buttonTimer" onclick="start()" class="buttonStart"><h3>Start Quiz</h3></button>
+	</div>
+
+	<div class="gameTitleGroup">
+		<div class="gameTitleDisplay"><h1>Trivia Game</h1></div>
+	</div>
+
+	<div class="highscoreBoard">
+		<div class="highscoreTitle"> <h3> High Score:</h3> </div>
+		<div class="highscoreValue" id="highScoreValue"> <h3> 0</h3> </div>
+		<div class="currentScoreTitle"> <h3> Current Score: </h3> </div>
+		<div class="currentScoreValue" id="currentScoreValue"> <h3> 0</h3> </div>
+	</div>
+
+</nav>
+
+
+<div class="displayQuestion">
+	<div class="displayQuestionText" id="displayQuestionText">Question text goes here</div>
+	<div class="gameTimer"><h2> time left: <p id="countdown"> 60 </p> </h2></div>
+	
+</div>
+
+<div id="buttonAnswersGroup">
+	<button class="buttonAnswer">Answer 1</button>
+	<button class="buttonAnswer">Answer 2</button>
+	<button class="buttonAnswer">Answer 3</button>
+	<button class="buttonAnswer">Answer 4</button>
+</div>
+
+<script type="text/javascript" src="script/script.js"></script>
+
+</body>
+</html>
