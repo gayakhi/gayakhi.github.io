@@ -1,0 +1,59 @@
+body {
+
+	margin-left: 5%;
+	margin-right: 5%;
+
+}
+
+h1 {
+
+	font-family: Arial;
+	text-align: center;
+	background: pod;
+
+}
+
+h3 {
+
+	font-family: Arial;
+	text-align: center;
+
+}
+
+#header {
+
+	background: powderblue;
+	padding: 15px;
+
+}
+
+#cat1 {
+
+	width: 49%;
+
+}
+
+#cat2 {
+
+	width: 49%;
+
+}
+
+#cat1:hover {
+
+	width: 49%;
+	border: solid;
+	border-color: navy;
+	border-width: 3px;
+
+}
+
+#cat2:hover {
+
+	width: 49%;
+	border: solid;
+	border-color: navy;
+	border-width: 3px;
+
+}
+
