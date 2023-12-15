@@ -1,0 +1,56 @@
+body{
+
+	background: rgb(191, 191, 227) ;
+	margin:20px;
+
+}
+
+#text {
+
+	width: 700px;
+	float: right;
+
+}
+
+h1 {
+
+	font-family: Helvetica;
+	color: rgb(30, 33, 82);
+	font-size: 100px;
+	margin-bottom: 20px;
+	text-align: right;
+}
+
+p {
+
+	font-family: Helvetica;
+	color: rgb(30, 33, 82);
+	font-size: 24px;
+	margin-bottom: 5px;
+	text-align: right;
+}
+
+#back {
+
+	font-family: Helvetica;
+	color: rgb(30, 33, 82);
+	font-size: 16px;
+	float: left;
+	text-align: right;
+	margin-top: 40px;
+	display: inline-block;
+
+}
+
+#next
+{
+
+	font-family: Helvetica;
+	color: rgb(30, 33, 82);
+	font-size: 16px;
+	float: right;
+	text-align: right;
+	margin-top: 40px;
+	display: inline-block;
+
+}

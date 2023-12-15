@@ -1,0 +1,42 @@
+body {
+
+	background-color: rgb(30, 33, 82);
+	margin:20px;
+}
+
+h1 {
+
+	font-family: Helvetica;
+	color: rgb(216, 216, 230);
+	font-size: 100px;
+	margin-bottom: 20px;
+}
+
+p {
+
+	font-family: Helvetica;
+	color: rgb(216, 216, 230);
+	font-size: 24px;
+	margin-bottom: 5px;
+}
+
+#name {
+
+	font-family: Helvetica;
+	color: rgb(216, 216, 230);
+	font-size: 16px;
+	margin-bottom: 150px;
+
+}
+
+.button {
+
+	font-family: Helvetica;
+	color: black;
+	font-size: 24px;
+	background-color: rgb(191, 191, 227);
+	padding: 12px;
+	margin-right: 40px;
+	border-radius: 10px;
+	text-decoration: none;
+}
