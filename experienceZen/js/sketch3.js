@@ -29,7 +29,7 @@ function draw() {
 		for (var j = 0; j < 360; j += 10) {
 
 			//makes a variable which determines the radius of the ellipse, based on i which is the number of circles
-			var rad = i * 12;
+			var rad = i * 12;4
 			//this creates an x variable to place the vertex, uses the radius value determined above, multiplied by cos(j) 
 			//using sin/cos is what helps make the movement less rigid and more 'lifelike' bc when multiplied it creates a curve/wave (oscillating effect)
 			var x = rad * cos(j);
